@@ -23,3 +23,6 @@ echo "deb [signed-by=/usr/share/keyrings/jenkins-keyring.asc]" https://pkg.jenki
 sudo apt-get update
 sudo at-get update
 sudo apt-get install jenkins
+sudo su
+git status
+sudo su
